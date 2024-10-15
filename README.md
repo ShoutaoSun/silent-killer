@@ -1,12 +1,11 @@
 # Silent Killer
 
 ## Background
-The project is the official implementation of the paper [Silent Killer: A Stealthy, Clean-Label, Black-Box Backdoor Attack](https://arxiv.org/abs/2301.02615).
-![Overview](overview.png)
+The project is the code of an awesome work with clean-label and black-box backdoor attack.
 
 ## Requirements
 All the requirements are listed in `requirements.txt`. \
-We run this code with `python 3.8`. 
+We run this code with `python 3.8.18`. 
 Run `pip install -r requirements.txt` to install requirements, and then run the script `silent_killer.py`.
 
 ## Run
